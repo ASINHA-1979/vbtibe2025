@@ -63,7 +63,7 @@
 body {
     scroll-behavior: smooth;
     /* background-color: var(--body-bg-color); */
-    /* background-image: linear-gradient(to top, #4481eb 0%, #04befe 100%); */
+    /* : linear-gradient(to top, #4481eb 0%, #04befe 100%); */
 }
 
 /* customize browser scroll-bar */
@@ -347,7 +347,7 @@ filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#42047E", en
 }
 
 .section-home {
-    background: url("../images/IN.jpg"), linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(30, 15, 50, 1) 35%, rgba(70, 40, 60, 1) 100%);
+    background: url("IN.jpg"), linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(30, 15, 50, 1) 35%, rgba(70, 40, 60, 1) 100%);
     background-size: 100% 750px;
     background-position: center;
     background-attachment: fixed;
