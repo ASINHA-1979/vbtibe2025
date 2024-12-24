@@ -471,6 +471,7 @@ section ul li>p::before {
 /* payment-contents styles */
 .payment-contents>li {
     font-size: 1.1rem;
+    color:white;
 }
 
 .payment-contents li>strong {
