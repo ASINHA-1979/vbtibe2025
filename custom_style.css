@@ -903,10 +903,8 @@ h6 {
     //updATE ON 26/12/24
     .header-top-title h2{
         font-size:0.9rem;
-        color:red;
         display:flex;
-        justify-content:center;
-        align-items:center;     
+        justify-content:center;     
     }
 }
 
