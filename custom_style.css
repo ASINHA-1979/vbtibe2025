@@ -899,7 +899,12 @@ h6 {
     }
     //updATE ON 26/12/24
     .header-top-title h2{
-        font-size:1.2rem;
+        font-size:1.0rem;
+        color:green;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        
         
     }
 }
