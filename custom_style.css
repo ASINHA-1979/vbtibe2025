@@ -897,8 +897,10 @@ h6 {
     .map-wrapper iframe {
         height: 250px;
     }
+    //updATE ON 26/12/24
     .header-top-title h2{
         color:red;
+        font-size:1.2rem;
     }
 }
 
