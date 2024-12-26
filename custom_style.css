@@ -782,7 +782,6 @@ h6 {
         font-size: 1.2rem;
         text-align: center;
         margin-bottom: 0;
-        color:red
     }
 
     .header-top .header-top_title>h2 {
@@ -897,6 +896,9 @@ h6 {
 
     .map-wrapper iframe {
         height: 250px;
+    }
+    .header-top-title h2{
+        color:red;
     }
 }
 
